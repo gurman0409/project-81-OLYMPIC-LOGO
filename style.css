@@ -1,0 +1,21 @@
+h1{
+	color: rgb(53, 82, 245); 
+	font-size: 40px;
+}
+
+.body_backgorund {
+    background-size: cover;
+	background-position: center;
+	background-image: url("bg1.jpg");
+}
+
+span{
+	font-size: 20px;
+}
+
+#olympicCanvas{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+    }
+    
